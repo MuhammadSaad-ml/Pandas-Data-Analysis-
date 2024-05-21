@@ -26,7 +26,7 @@
 
 [![Analysis Pandas Part 2](https://ytcards.demolab.com/?id=Lzd_eqkw8As&title=Analysis+With+Pandas+Part+2&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=372 "Analysis Pandas Part 2")](https://www.youtube.com/watch?v=Lzd_eqkw8As)
 
-[![Pair Plot in Python](https://ytcards.demolab.com/?id=klcIx6-cchI&title=Analysis+With+Pandas+Part+3&lang=en&timestamp=442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=553 "Pair Plot in Python")](https://www.youtube.com/watch?v=klcIx6-cchI)
+[![Pair Plot in Python](https://ytcards.demolab.com/?id=klcIx6-cchI&title=Analysis+With+Pandas+Part+3&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=553 "Pair Plot in Python")](https://www.youtube.com/watch?v=klcIx6-cchI)
 
 
 
